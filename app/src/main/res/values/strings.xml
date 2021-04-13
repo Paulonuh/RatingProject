@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RatingProject</string>
+    <string name="count_starts">%d Stars</string>
 </resources>
